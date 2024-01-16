@@ -1,1 +1,1 @@
-This is an application that allows users to view, add, edit, and delete entries to a database that stores employee details such as name, age etc. Made using React, NodeJS, and SQL using XAMPP to host the database. Styling is done mainly using Bootstrap. 
+This is a full stack application that allows users to view, add, edit, and delete entries to a database that stores employee details such as name, age etc. Made using React, NodeJS, and SQL using XAMPP to host the database. Styling is done mainly using Bootstrap. 
